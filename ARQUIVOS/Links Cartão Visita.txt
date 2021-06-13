@@ -1,32 +1,65 @@
 Ligação:
-tel:016997224212
 tel:01640421762
 
 WhatsApp:
 https://api.whatsapp.com/send?phone=5516997224212
-
 
 Uber:
 https://m.uber.com/ul/?action=setPickup&client_id=xPfsR5iJ_rCsIfCNx8N34TTCIZjp5Vgw&pickup=my_location&dropoff[formatted_address]=Avenida%20Luiz%20Eduardo%20Toledo%20Prado%2C%20800%2C%20Ribeir%C3%A3o%20Preto%20-%20SP%2C%20Brasil&dropoff[latitude]=-21.225821&dropoff[longitude]=-47.836493
 para gerar o link
 (https://developer.uber.com/products/ride-requests-deeplink)
 
-
 Waze:
 https://ul.waze.com/ul?place=ChIJt7gxbGC5uZQRbNORcabAymg&ll=-21.22582110%2C-47.83649270&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location
 para gerar o link
 (https://www.waze.com/pt-BR/live-map)
 
-
 Google Maps
 https://goo.gl/maps/z13N5GRHiB8H3MjX9
 
-
 LinkedIn
 https://www.linkedin.com/company/entre-rios-investimentos/
-https://www.linkedin.com/in/caroline-bordini-30699520b/
-
 
 Instagram
 https://www.instagram.com/entrerios_invest/
-https://www.instagram.com/carolbordini_/
+
+
+Agnaldo Fonseca
+Sócio - Assessor de Investimentos
+tel: 16981268336
+Ramal 102
+mailto: agnaldo.fonseca@entreriosinvestimentos.com.br
+Linkedin: https://www.linkedin.com/in/agnaldo-henrique-fonseca-aai-4349064b/
+Instagram: https://www.instagram.com/agnaldohf/
+
+Caroline Bordini
+Sócia - Assessora de Investimentos
+tel:016997224212
+Ramal 103
+mailto: caroline.bordini@entreriosinvestimentos.com.br
+Linkedin: https://www.linkedin.com/in/caroline-bordini-30699520b/
+Instagram: https://www.instagram.com/carolbordini_/
+
+Enzo Constantino
+Assessor de Investimentos
+tel: 16988554670
+Ramal 105
+mailto: enzo.constantino@entreriosinvestimentos.com.br
+Linkedin: https://www.linkedin.com/in/enzo-constantino-vedovato-aai-2123a6194/
+Instagram: https://www.instagram.com/enzo_constantino/
+
+Leonardo Castro
+Sócio - Assessor de Investimentos
+mailto: leonardo.castro@entreriosinvestimentos.com.br
+tel: 16982134593
+Ramal 101
+Linkedin: https://www.linkedin.com/in/leonardo-castro-29297731/
+Instagram: https://www.instagram.com/leopac/
+
+Rodolfo Freitas
+Sócio - Assessor de Investimentos
+tel: 16997070109
+Ramal 104
+mailto: rodolfo.freitas@entreriosinvestimentos.com.br
+Linkedin: https://www.linkedin.com/in/rodolfo-freitas-24bbb993/
+Instagram:
