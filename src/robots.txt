@@ -1,0 +1,15 @@
+# Group 1
+User-agent: *
+
+Disallow: /api
+Disallow: /components
+Disallow: /css
+Disallow: /error
+Disallow: /fonts
+Disallow: /form
+Disallow: /include
+Disallow: /js
+Disallow: /cgi-bin/
+Disallow: /wusage
+
+Sitemap: http://www.r3solucoesrp.com.br/sitemap.xml

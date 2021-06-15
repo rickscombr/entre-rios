@@ -1,0 +1,52 @@
+{
+  "name": "entre-rios",
+  "version": "1.0.0",
+  "description": "Projeto da empresa Entre Rios Investimentos que atua no ramo financeiro",
+  "main": "index.html",
+  "repository": "https://github.com/rickssolutions/entre-rios.git",
+  "author": "Ricardo Marques <ricks@ricks.com.br>",
+  "license": "ISC",
+  "private": true,
+  "keywords": [
+    "ASP",
+    "HTML",
+    "Node.js",
+    "Flaticon",
+    "Componentes",
+    "git",
+    "fontAwesome",
+    "Animate",
+    "Boostrap"
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.0.0-beta2",
+    "jquery": "^3.4.1",
+    "jquery.cookie": "^1.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "child_process": "^1.0.2",
+    "event-stream": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-exec": "^4.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-open": "^3.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sitemap": "^7.6.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.1",
+    "gulp4-run-sequence": "^1.0.1",
+    "mysqldump": "^3.1.0",
+    "vinyl-ftp": "^0.6.1"
+  }
+}

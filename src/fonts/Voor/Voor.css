@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Voor';
+    src: url('Voor.eot');
+    src: url('Voor.eot?#iefix') format('embedded-opentype');
+    src: url('Voor.woff2') format('woff2');
+    src: url('Voor.woff') format('woff');
+    src: url('Voor.ttf') format('truetype'), url('Voor.svg#Voor') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,126 @@
+/*
+===============================================================================
+===============================================================================
+--- RICKS STYLES --------------------------------------------------------------
+Project: R3 Soluções
+Date: 09/02/2021
+Version: 1.0.1
+===============================================================================
+===============================================================================
+*/
+@import 'colors';
+@import 'variaveis';
+/*=========================================================================
+== CONFIGURAÇÕES GERAIS
+==========================================================================*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: $FONT-FAMILY;
+    font-size: 1.6rem;
+    z-index: $ZINDEX-BASE;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+body {
+    width: 100%;
+    height: 100%;
+    background-color: $COR-CARBONO;
+    &.auto-contraste {
+        background-color: $COR-PRETO;
+    }
+}
+h1 {
+    width: 0px;
+    height: 0px;
+    font-size: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10;
+}
+ul li {
+    list-style: none;
+}
+a,
+a:hover,
+a:active,
+a:visited {
+    text-decoration: none;
+    color: $COR-AZUL;
+}
+a:hover {
+    color: $COR-AZUL-CLARO;
+}
+.txt-right {
+    text-align: right;
+}
+.hide {
+    display: none;
+}
+#iForm {
+    transition: ease-in-out 0.5s;
+}
+//habilita visualmente o foco
+// :focus {
+// 	border: 2px solid yellow;
+// 	background-color: red;
+// }
+
+.no-mobile {
+    display: none;
+}
+.only-mobile {
+    display: contents;
+    padding: 0;
+}
+
+/*=========================================================================
+== IMPORTS DE COMPONENTES / POLUGINS
+==========================================================================*/
+@import '../components/Alert/alert';
+@import '../components/Forms/forms';
+@import '../components/AccessibilityBar/accessibility-bar';
+@import '../components/Menu/menu';
+@import '../components/Carousel/carousel';
+@import '../components/Highlight/highlight';
+@import '../components/Cards/cards';
+@import '../components/Title/title';
+@import '../components/CallToAction/callToAction';
+@import '../components/Button/button';
+@import '../components/FormParallax/formParallax';
+@import '../components/Loading/loading';
+@import '../components/Footer/footer';
+@import '../components/Errors/errors';
+@import '../components/Solutions/solutions';
+@import '../components/Team/team';
+
+/*=========================================================================
+== FLATICON
+==========================================================================*/
+[class^='flaticon']:before,
+[class*=' flaticon']:before,
+[class^='flaticon']:after,
+[class*=' flaticon']:after {
+    font-family: flaticon;
+    font-style: normal;
+    margin-left: 0px;
+    font-size: inherit;
+}
+
+/*=========================================================================
+== MOBILE
+==========================================================================*/
+@media (min-width: 768px) {
+    .no-mobile {
+        display: block;
+    }
+    .only-mobile {
+        display: none;
+    }
+}
